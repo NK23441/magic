@@ -18,7 +18,7 @@
 </script>
 <div class="row">
   <div class="col">
-    <h1 class="text-center">MTG COUNTER</h1>
+    <h1 class="text-center">MTG COUNTER1</h1>
   </div>
 </div>
 <div class="row">
